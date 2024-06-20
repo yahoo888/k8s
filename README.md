@@ -1,2 +1,3 @@
 # k8s
-k8s practice
+Kubernetes manifests
+1 for mongoDB Deployment
